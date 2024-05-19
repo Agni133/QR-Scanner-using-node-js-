@@ -8,6 +8,6 @@
     "zod": "^3.23.8"
   },
   "scripts": {
-    "start": "node node.js"
+    "start": "node index.js"
   }
 }
